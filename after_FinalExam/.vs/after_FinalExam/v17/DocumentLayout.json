@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\go789\\Desktop\\after_FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|solutionrelative:after_FinalExam\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|solutionrelative:after_FinalExam\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|solutionrelative:after_FinalExam\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|solutionrelative:after_FinalExam\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{194F270A-902E-49A2-804C-C7BF8497A23E}|after_FinalExam\\after_FinalExam.vcxproj|solutionrelative:after_FinalExam\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Object.h",
+              "RelativeDocumentMoniker": "after_FinalExam\\Object.h",
+              "ToolTip": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Object.h",
+              "RelativeToolTip": "after_FinalExam\\Object.h",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwD4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-19T02:48:49.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Object.cpp",
+              "RelativeDocumentMoniker": "after_FinalExam\\Object.cpp",
+              "ToolTip": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Object.cpp",
+              "RelativeToolTip": "after_FinalExam\\Object.cpp",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T02:48:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transform.h",
+              "DocumentMoniker": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Transform.h",
+              "RelativeDocumentMoniker": "after_FinalExam\\Transform.h",
+              "ToolTip": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Transform.h",
+              "RelativeToolTip": "after_FinalExam\\Transform.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-19T02:47:45.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transform.cpp",
+              "DocumentMoniker": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Transform.cpp",
+              "RelativeDocumentMoniker": "after_FinalExam\\Transform.cpp",
+              "ToolTip": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\Transform.cpp",
+              "RelativeToolTip": "after_FinalExam\\Transform.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T02:47:18.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\main.cpp",
+              "RelativeDocumentMoniker": "after_FinalExam\\main.cpp",
+              "ToolTip": "C:\\Users\\go789\\Desktop\\after_FinalExam\\after_FinalExam\\main.cpp",
+              "RelativeToolTip": "after_FinalExam\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T02:46:34.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
